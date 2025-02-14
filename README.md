@@ -21,4 +21,4 @@ First Repository
 
 ## Description
 
-## Hot to Run Program
+## How to Run Program

@@ -1,9 +1,6 @@
 # Hello-Word
 First Repository
 
-**bold text**
-
-*italicized text*
 
 [Python Mortgage Calculator](https://www.online-python.com/)
 

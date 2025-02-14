@@ -5,7 +5,7 @@ First Repository
 
 *italicized text*
 
-[Python Mortgage Calculator]([https://www.example.com](https://www.online-python.com/)
+[Python Mortgage Calculator](https://www.online-python.com/)
 
 ## Table of contents
 - [PROJECT TITLE](#project-title)

@@ -6,6 +6,7 @@ First Repository
 **bold text**
 
 *italicized text*
+
 [title](https://www.example.com)
 
 ## Table of contents

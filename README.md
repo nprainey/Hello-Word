@@ -4,7 +4,9 @@ First Repository
 # Heading1
 ## Heading2
 **bold text**
+
 *italicized text*
+[title](https://www.example.com)
 
 ## Table of contents
 - [PROJECT TITLE](#project-title)

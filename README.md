@@ -5,7 +5,7 @@ First Repository
 
 *italicized text*
 
-[title](https://www.example.com)
+[Python Mortgage Calculator](https://www.example.com)
 
 ## Table of contents
 - [PROJECT TITLE](#project-title)
@@ -17,18 +17,18 @@ First Repository
 
 ## *Creating a calculator to calculate monthly mortgage payments using Python*
 
-## Description
+## **Description**
 - In the program it prompts the user to input; principal amount they're taking out, the interest rate, and the term length
 
-# How to run program
+# **How to run program**
 - After downloaded the file a using a python IDE, you select run, and it will prompt you for the variables needed
 
-# Files used
+# **Files used**
 - The file I used was Quiz1D_nprainey
 
-# Additional documentation
+# **Additional documentation**
 - none
 
-# versioning
+# **versioning**
 - none
 
